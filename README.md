@@ -11,7 +11,7 @@ Which is to basically run:
 sudo apt install libwxgtk3.0-dev
 sudo ln -sv /usr/include/wx-3.0/wx /usr/include/wx
 ```
-###Windows:
+### Windows:
 ``¯\_(ツ)_/¯``
 
 ## Correct cmake usage
