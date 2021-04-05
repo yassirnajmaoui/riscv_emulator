@@ -18,6 +18,6 @@ sudo ln -sv /usr/include/wx-3.0/wx /usr/include/wx
 1. Clone the git repository, it will create a folder named "riscv_emulator"
 2. Create a build folder next to it named "riscv_emulator-build" (``mkdir riscv_emulator-build``)
 3. Go to the build folder ``cd riscv_emulator-build``
-4. Run "cmake ../riscv_emulator/"
+4. Run ``cmake ../riscv_emulator/``
 
 
